@@ -1,11 +1,11 @@
 
 ¡Hola! 👋
-Mi nombre es JC y soy un apasionado de la tecnología, especialmente en el ámbito de la programación y el desarrollo de software. Estoy comprometido con el aprendizaje continuo y siempre busco nuevas oportunidades para crecer profesionalmente.
+Mi nombre es José Carlos, me gusta la tecnología y actualmente estoy estudiando grado superior de Desarrollador de Aplicaciones Web.
 
 Acerca de mí:
-🔭 Actualmente estoy trabajando en proyectos de desarrollo de software, donde me enfoco en crear soluciones innovadoras y eficientes.
+🔭Actualmente estoy estudiando grado superior de Desarrollador de Aplicaciones Web.
 
-🌱 Estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades en áreas como la inteligencia artificial, la programación web y la ciencia de datos.
+🌱 Intento mejorar mis habilidades en áreas como la base de datos , la programación web y lenguajes como javascritp.
 
 👯 Estoy abierto a colaborar en proyectos interesantes donde pueda aportar mi experiencia y aprender de otros profesionales.
 
@@ -13,6 +13,6 @@ Acerca de mí:
 
 📫 Puedes contactarme a través de mi correo electrónico josecarlosnunezleon21@gmail.com.
 
-⚡ Dato curioso: Además de mi pasión por la tecnología, disfruto pasar tiempo al aire libre y explorar nuevas actividades como el senderismo y la fotografía.
+⚡ Dato curioso: Además de mi pasión por la tecnología, me encanta practicar deporte como es fútbol, y ver a mi equipo favorito. 
 
 ¡Espero tener la oportunidad de conectarme contigo y colaborar en proyectos emocionantes en el futuro! 😄
