@@ -1,3 +1,5 @@
+![Bienvenido a mi perfil](https://via.placeholder.com/1500x500/008000/FFFFFF?text=Bienvenido+a+mi+perfil)
+
 
 ¡Hola! 👋
 Mi nombre es José Carlos, me gusta la tecnología y actualmente estoy estudiando grado superior de Desarrollador de Aplicaciones Web.
@@ -16,4 +18,4 @@ Acerca de mí:
 ⚡ Dato curioso: Además de mi pasión por la tecnología, me encanta practicar deporte como es fútbol, y ver a mi equipo favorito. 
 
 ¡Espero tener la oportunidad de conectarme contigo y colaborar en proyectos emocionantes en el futuro! 😄
-![Bienvenido a mi perfil](https://via.placeholder.com/1500x500?text=Bienvenido+a+mi+perfil)
+
