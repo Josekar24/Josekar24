@@ -3,12 +3,12 @@
 
 
 ¡Hola! 👋
-Mi nombre es José Carlos, me gusta la tecnología y actualmente estoy estudiando grado superior de Desarrollador de Aplicaciones Web.
+Mi nombre es Jose Carlos, me gusta la tecnología y actualmente estoy estudiando grado superior de Desarrollador de Aplicaciones Web.
 
 Acerca de mí:
 🔭Actualmente estoy estudiando grado superior de Desarrollador de Aplicaciones Web.
 
-🌱 Intento mejorar mis habilidades en áreas como la base de datos , la programación web y lenguajes como javascritp.
+🌱 Intento mejorar mis habilidades en áreas como la base de datos , la programación web y lenguajes como javascript.
 
 👯 Estoy abierto a colaborar en proyectos interesantes donde pueda aportar mi experiencia y aprender de otros profesionales.
 
@@ -16,7 +16,7 @@ Acerca de mí:
 
 📫 Puedes contactarme a través de mi correo electrónico josecarlosnunezleon21@gmail.com.
 
-⚡ Dato curioso: Además de mi pasión por la tecnología, me encanta practicar deporte como es fútbol, y ver a mi equipo favorito. 
+⚡ Dato curioso: 
 
 ¡Espero tener la oportunidad de conectarme contigo y colaborar en proyectos emocionantes en el futuro! 😄
 
