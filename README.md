@@ -1,4 +1,4 @@
-![Bienvenido a mi perfil](https://via.placeholder.com/1500x500/008000/FFFFFF?text=Bienvenido+a+mi+perfil+Espero+que+os+guste!!!!!!)
+![Bienvenido a mi perfil](www.linkedin.com/in/josecarlosnl)
 
 
 
